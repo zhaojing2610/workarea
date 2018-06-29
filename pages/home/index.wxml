@@ -1,0 +1,12 @@
+<view class='home-page'>
+    <view class='header'>
+        header{{msg}}
+    </view>
+    <view class='content'>
+        flex item 2
+        flex item 2
+    </view>
+    <view class='footer'>
+        footer
+    </view>
+</view>
