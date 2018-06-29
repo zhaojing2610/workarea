@@ -3,7 +3,7 @@
         header{{msg}}
     </view>
     <view class='content'>
-        flex item 2
+        flex item 1
         flex item 2
     </view>
     <view class='footer'>
